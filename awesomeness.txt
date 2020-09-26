@@ -3,3 +3,5 @@ il etait :
 patient
 souriant
 travailleur
+sociable
+dynamique
